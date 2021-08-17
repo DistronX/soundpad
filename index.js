@@ -23,7 +23,7 @@ function makeSound(currentButton) {
             audio.play();
             break;
         case 's':
-            var audio = new Audio("sounds/illuminati.mp3");
+            var audio = new Audio("sounds/rickroll.mp3");
             audio.play();
             break;
         case 'd':
